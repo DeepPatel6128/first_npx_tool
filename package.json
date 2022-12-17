@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DeepPatel6128/first_npm_package.git"
+    "url": "git+https://github.com/DeepPatel6128/first_npx_tool.git.git"
   },
   "keywords": [
     "DP"
@@ -16,9 +16,9 @@
   "author": "Deep Patel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DeepPatel6128/first_npm_package/issues"
+    "url": "https://github.com/DeepPatel6128/first_npx_tool.git/issues"
   },
-  "homepage": "https://github.com/DeepPatel6128/first_npm_package#readme",
+  "homepage": "https://github.com/DeepPatel6128/first_npx_tool.git#readme",
   "bin": {
 	"all_mern_dependencies": "bin/index.js"
 }
